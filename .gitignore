@@ -1,0 +1,24 @@
+﻿# 小西斯根目录 .gitignore
+
+# 剪辑模块
+剪辑/__pycache__/
+剪辑/.venv/
+剪辑/scripts/__pycache__/
+
+# 办公模块
+办公内容/__pycache__/
+办公内容/.venv/
+
+# 生成输出（避免素材/项目文件意外提交）
+output/
+materials/
+projects/
+templates/
+剪辑/output/
+办公内容/output/
+
+# 通用
+__pycache__/
+.venv/
+*.pyc
+.DS_Store

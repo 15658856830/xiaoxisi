@@ -1,0 +1,9 @@
+﻿ python-docx
+ openpyxl
+ pandas
+ python-pptx
+ pypdf2
+ pdfplumber
+ reportlab
+ matplotlib
+ click
